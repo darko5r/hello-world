@@ -1,2 +1,3 @@
-# hello-world/dd/dd
-<!Hello,\ World!\0A;
+#!/usr/bin/perl
+
+print "Hello, World!\n";
