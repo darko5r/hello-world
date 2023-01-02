@@ -27,7 +27,7 @@ while (1) {
             my $string = "Hello, World!\n";
             print scalar reverse("$string");
         } elsif ($selection == 2) {
-            # Add code to read "Hello, World!" with a computer voice here / this part is not implemented yet
+            # Add code to read "Hello, World!" with a computer voice here / this part is not implemented yet / e-speek
         } elsif ($selection == 3) {
             last;
         }
