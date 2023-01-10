@@ -18,7 +18,7 @@ while (1) {
     }
 
     my $key = ReadKey(-1);
-    if ($key =~ /^\d$/.) {
+    if ($key =~ /^\d$/) {
         my $selection = int($key);
         if ($selection == 0) {
             print "Hello, World!\n";
